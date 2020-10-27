@@ -4,6 +4,7 @@ using System.Text;
 
 namespace ThirdPartyLibDemoLive
 {
+    //Common class having address of all paths
     class PathToFile
     {
         public static string ImportedCsv = @"C:\Users\user\source\repos\ThirdPartyLibDemoLive\fileStorage\Address.csv";
